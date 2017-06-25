@@ -170,7 +170,7 @@ today = datetime.date.today()
 text = '{today.month}/{today.day}/{today.year}'.format(today=today)
 print(text)
 
-text = today.strftime('%-m/%-d/%y')
+text = today.strftime('%m/%d/%y')
 print(text)
 
 now = datetime.datetime.utcnow() #utc time
