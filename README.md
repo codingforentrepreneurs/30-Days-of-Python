@@ -6,9 +6,9 @@ For the next 30 days, learn the Python Programming language.
 
 
 ### Lectures 
-Day 1 | Basics: Setup, Strings, Variables, and Integers: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-1-basics-setup-strings-variables-and-integers/)
+Day 1 | Basics: Setup, Strings, Variables and Integers: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-1-basics-setup-strings-variables-and-integers/)
 
-Day 2 | Lists: Dictionaries, & Tuples: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-2-lists-dictionaries-tuples/)
+Day 2 | Lists: Dictionaries & Tuples: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-2-lists-dictionaries-tuples/)
 
 Day 3 | Loops: For Loops & While Loops: [Watch](https://www.codingforentrepreneurs.com/projects/30-days-python/day-3-loops-loops-while-loops/)
 
@@ -32,7 +32,7 @@ Day 12 | Send Formatted Emails to a Set of Users with Python:[Watch](https://www
 
 Day 13 | Using External Template Files with Context Data in Python: [Code](../master/Day 13/)
 
-Day 14 | CSV Files with Python - Read, Write, & Append: [Code](../master/Day 14/)
+Day 14 | CSV Files with Python - Read, Write and Append: [Code](../master/Day 14/)
 
 Day 15 | Functions to Dynamically Add Data to CSV with Python: [Code](../master/Day 15/)
 
