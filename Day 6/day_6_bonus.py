@@ -26,7 +26,7 @@ def make_messages(names, amounts):
             Here's a simple solution to capitalize 
             everyone's name prior to sending
             """
-            name = name[0].upper() + name[1:].lower() 
+            name = name.capitalize()
 
             """
             Did you get the bonus??
