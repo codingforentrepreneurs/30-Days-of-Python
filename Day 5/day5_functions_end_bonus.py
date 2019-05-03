@@ -1,33 +1,15 @@
-items3 = ["Mic", "Phone", 323.12, 3123.123, "Justin", "Bag", "Cliff Bars", 134]
+items2 = ["Mic", "Phone", 321.23, 432.233, "Justin", "Bag", "Cliff tttaaa", 134]
 
-
-
-def my_sum_and_count(my_num_list):
-    total = 0
-    count = 0
+#Wrapping the three above functions into one single function
+def sum_and_avg(my_num_list):
+    totalsum = 0
     for i in my_num_list:
         if isinstance(i, float) or isinstance(i, int):
-            total += i
-            count += 1
-    return total, count
+            totalsum += i
+    totalcount = 0
+    for i in my_num_list:
+        if isinstance(i, float) or isinstance(i, int):
+            totalcount += 1
+    return "The Sum is: ", totalsum, "Number of items is: ", totalcount, "Average is: ", totalsum / (totalcount * 1.0)
 
-
-def my_avg(my_num_list):
-    the_sum, num_of_items = my_sum_and_count(my_num_list)
-    return the_sum / (num_of_items * 1.0)
-
-
-my_avg(items3)
-
-
-
-
-
-
-
-
-
-
-
-
-
+sum_and_avg(items2)
