@@ -40,9 +40,20 @@ SyntaxError: invalid syntax
 
 
 ### Strings
-_coming soon_
+Strings are basically a set of ordered characters. For example, someones name.
 
+To print in python, use print("the thing you want to print") 
 
+print("James")
+>>James
+
+A better way to use strings is by using f strings:
+
+name = "James" 
+age = '20'
+
+f"My name is {name} and I am {age}."
+>>'My name is James and I am 20.'
 
 
 
