@@ -136,7 +136,7 @@ abc@abc.abc
 ... 
 >>> print(selected_user)
 {'username': 'abc', 'id': 2, 'email': 'abc@abc.abc'}
->>> for x in range(0, 10):
+>>> for x in range(10):
 ...    print(x)
 ... 
 0
