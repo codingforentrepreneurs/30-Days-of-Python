@@ -3,8 +3,6 @@ class Animal:
     color = "Red"
     def make_noise(self): # this
         print(f"{self.noise}")
-    def set_noise(self, new_noise):
-        self.noise = new_noise
     def get_noise(self):
         return self.noise
     def set_noise(self, new_noise):
