@@ -9,7 +9,7 @@ def download_file(url, directory, fname=None):
     with requests.get(url, stream=True) as r:
         with open(dl_path, 'wb') as f:
             shutil.copyfileobj(r.raw, f)
-    return new_dl_path
+    return dl_path
 
 
 
