@@ -119,9 +119,9 @@ float()
 
 ## Using Operators in Python
 Here are the list of operators in python;
-- +	Addition
+- (+)	Addition
 - (-) 	Subtraction
-- *	Multiplication
+- (*)	Multiplication
 - / 	Real division
 - //	Integer division (quotient) is the operation that calculates how many whole times the divisor (3) will fit in the dividend (14).
 - **	Powers
