@@ -26,7 +26,7 @@ There are five main data types namely;
 
 **N.B:** Incorrect data types can cause problems during the execution of your programs.
 
-** Question**
+**Question**
 
 Predict what might happen when this code is executed.
 
