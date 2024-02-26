@@ -1,5 +1,5 @@
 # Day 2 - Variables, Data Types and Operators
-This is meant as a reference to the concepts of Numbers, Variables, and Strings in Python.
+This tutorial is based on variables, data types and operators
 
 ## Variables
 A variable holds a value in a memory location that is needed for the execution of your program.
@@ -26,7 +26,8 @@ There are five main data types namely;
 
 **N.B:** Incorrect data types can cause problems during the execution of your programs.
 
-** Question .**
+** Question**
+
 Predict what might happen when this code is executed.
 
 ```python
@@ -70,9 +71,11 @@ Enter another number
 
 Errors can still happen during execution, even when casting has been used.
  **Question**
+ 
 What might happen if the user enters ‘four’ when this code is executed?
 
 **Answer**
+
 A runtime error occurs. This is a type of error that causes the program to crash during execution.
 
 ```python
