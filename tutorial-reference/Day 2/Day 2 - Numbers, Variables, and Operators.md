@@ -120,12 +120,46 @@ float()
 ## Using Operators in Python
 Here are the list of operators in python;
 - (+)	Addition
+```python
+5 + 5
+```
+>>> 10
+  
 - (-) 	Subtraction
+```python
+10 - 5
+```
+>>> 5
+  
 - (*)	Multiplication
+```python
+5 * 5
+```
+>>> 25
+  
 - / 	Real division
+```python
+5 / 2
+```
+>>> 2.5
+  
 - //	Integer division (quotient) is the operation that calculates how many whole times the divisor (3) will fit in the dividend (14).
+```python
+26 // 5
+```
+>>> 5
+  
 - **	Powers
+ ```python
+5 ** 2
+```
+>>> 25
+
 - %	Modulo (MOD) is used to work out the remainder of the division.
+```python
+15 % 7
+```
+>>> 1
 
 
 
