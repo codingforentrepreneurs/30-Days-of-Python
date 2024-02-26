@@ -117,34 +117,16 @@ int()
 float()
 ```
 
-## Operators
+## Using Operators in Python
+Here are the list of operators in python;
+- +	Addition
+- - 	Subtraction
+- *	Multiplication
+- / 	Real division
+- //	Integer division (quotient) is the operation that calculates how many whole times the divisor (3) will fit in the dividend (14).
+- **	Powers
+- %	Modulo (MOD) is used to work out the remainder of the division.
 
-Adding
-```
-10 + 10
-```
-Multiply
-```
-9 * 32
-```
-Divide
 
-24 / 6
-
-Exponent 
-
-4 ** 2
-
-Modulo (Remainder)
-
-24 % 5
-
-Greater Than
-
-55 > 22
-
-Less Than
-
-132 < 123
 
 
