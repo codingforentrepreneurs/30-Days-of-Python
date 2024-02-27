@@ -161,6 +161,27 @@ Here are the list of operators in python;
 ```
 `>>> 1`
 
+**Projects**
+- **Hello Python**
+  Create a script to print hello 🐍.
+  
+  ```python
+  pi = "🐍"
+  print("Hello", pi)
+  ```
+
+- **Short Intro**
+  Create a program to introduce someone.
+
+  ```python
+  name = "Albert Einstein"
+  age = 67
+  profession = "Scientist"
+
+  print("Hello!", name, "is", age, "years old and a", profession)
+  ```
+
+
 
 
 
